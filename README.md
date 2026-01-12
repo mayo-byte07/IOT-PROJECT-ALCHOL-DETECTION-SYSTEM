@@ -61,6 +61,11 @@ Upload Code: Open the .ino file in the Arduino IDE and upload it to your Uno boa
 
 Calibration: Use the onboard potentiometer on the MQ-3 sensor to fine-tune the sensitivity.
 
+#Model made by Me:---
+
+![WhatsApp Image 2025-12-20 at 11 30 35](https://github.com/user-attachments/assets/7023eba6-8acd-461a-9f08-41ec0e19d704)
+
+
 📝 License
 This project is open-source and available under the MIT License.
 
