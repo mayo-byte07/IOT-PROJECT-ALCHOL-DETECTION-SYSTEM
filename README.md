@@ -5,6 +5,14 @@ A smart IoT-based Alcohol Detection System using Arduino Uno and an MQ-3 sensor.
 
 A real-time safety monitoring project built with Arduino. This system detects the concentration of alcohol in the air and triggers both a visual and audible alarm when levels exceed a safe threshold.
 
+#Gallery
+
+![Circuit](https://github.com/user-attachments/assets/79500bac-ea06-46df-af62-28e28b4c0475)
+
+![WhatsApp Image 2025-12-20 at 11 29 51](https://github.com/user-attachments/assets/6e4deb27-d155-4f3d-8049-abc7137fb7be)
+
+![WhatsApp Image 2025-12-20 at 11 30 35](https://github.com/user-attachments/assets/e197b9dd-5900-4544-af5f-170e5c3a3301)
+
 ## 🚀 Overview
 This project uses an **MQ-3 Gas Sensor** to monitor ethanol levels. It is designed for applications such as breathalyzers, vehicle ignition interlocks, or industrial safety monitors.
 
