@@ -3,7 +3,7 @@ A smart IoT-based Alcohol Detection System using Arduino Uno and an MQ-3 sensor.
 
 # 🛡️ IoT Alcohol Detection & Alert System
 
-A real-time safety monitoring project built with Arduino. This system detects the concentration of alcohol in the air and triggers both a visual and audible alarm when levels exceed a safe threshold.
+A real-time safety monitoring project built with Arduino. This system detects the concentration of alcohol in the air and triggers both a visual and a beeping alarm when levels exceed a safe threshold.
 
 #Circuital Diagram :--
 
